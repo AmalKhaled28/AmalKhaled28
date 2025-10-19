@@ -2,7 +2,7 @@
 🎓 **Data Scientist | Machine Learning | Data Analytics**  
 📍 Alexandria, Egypt  
 
-📫 (+20) 106 236 6865 | [Gmail](amalkhaled.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amal-khaled-634655254) | [Portfolio](https://www.canva.com/design/DAGysXaHH74/CIqmVJGio8SHaQNrNnzVzA/view?utm_content=DAGysXaHH74&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h167f36a7dc) | [Kaggle](https://www.kaggle.com/amalkhaledelwan) | [GitHub](https://github.com/AmalKhaled28)  
+📫 (+20) 106 236 6865 | [Gmail](amalkhaled.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amal-khaled-634655254) | [Portfolio](https://www.canva.com/design/DAGysXaHH74/CIqmVJGio8SHaQNrNnzVzA/view?utm_content=DAGysXaHH74&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h167f36a7dc) | [Kaggle](https://www.kaggle.com/amalkhaledelwan)  
 
 ---
 
