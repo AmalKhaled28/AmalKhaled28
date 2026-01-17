@@ -15,6 +15,12 @@ I’m seeking an **entry-level data science or analytics role** where I can appl
 
 ## 💼 Experience  
 
+### **Machine Learning for Data Analysis Trainee — NTI (2026)**
+- Performed data cleaning and preprocessing using Pandas and NumPy
+- Applied supervised and unsupervised ML models for analytical tasks
+- Conducted EDA and visualized insights using Matplotlib and Seaborn
+
+
 ### **Data Analytics & Big Data Training — Digital Hub (2023)**  
 - Used data analysis tools for business insights and visualization.  
 - Learned fundamentals of machine learning and its real-world applications.  
