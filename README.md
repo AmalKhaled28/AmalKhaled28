@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amal Khaled — Data Scientist  
+# 👋 Hi, I'm Amal Khaled 
 🎓 **Data Scientist | Machine Learning | Data Analytics**  
 📍 Alexandria, Egypt  
 
